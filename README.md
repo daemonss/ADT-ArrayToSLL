@@ -67,5 +67,6 @@ Catatan
 - Program ini **tidak memungkinkan penambahan kota baru**, karena data kota bersifat statis (jumlah dan nama kota ditentukan di awal dan tidak dapat diubah saat runtime).
 - Yang bersifat dinamis hanyalah data nama warga di dalam masing-masing kota.
 
+---
 
 
